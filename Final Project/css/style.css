@@ -1,0 +1,28 @@
+Body {
+  background-color:  white;
+  color: #ff6600;
+  font-family: "Roboto", sans-serif;
+}
+
+h1,h2{
+  text-align: center;
+}
+
+h1{
+  color: #ff6600;
+  font-weight: bold;
+}
+
+h2{
+  color: blue;
+  text-transform: uppercase;
+}
+
+h3{
+  font-size: 15px;
+}
+
+p{
+  color: blue
+  font-size: 15px;
+}
